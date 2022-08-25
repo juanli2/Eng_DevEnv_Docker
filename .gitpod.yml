@@ -1,6 +1,6 @@
 # Commands to start on workspace startup
 image:
-  file: Dockerfile
+  file: .gitpod.Dockerfile
 # tasks:
 #   - name: terminal-base
 #     image: 
